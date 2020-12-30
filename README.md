@@ -18,8 +18,8 @@ The dev board used made use of the parallel
 BUS with A0-A7 and D0-D7 on port 0 and
 A8-A15 on port 2. 
 
-A chip allowed for some CS selection through
-the value of A0-A7 (Latch present to keep 
+An IC allows for some CS selection through
+the value of A0-A7 (with a latch present to keep 
 the values available while displaying D0-D7)
 
 Other characteristics:
