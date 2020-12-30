@@ -1,11 +1,11 @@
 # Library_8051
 MCU original : Dallas DS89C450
 
-C documents were written with KEIL IDE
+C documents were written with KEIL IDE.
 
-C++ documents were written with IAR 8051
+C++ documents were written with IAR 8051.
 
-Hardware related functions are in BCP.c
+Hardware related functions are in BCP.c.
 All classes must be declared with those
 functions as parameters.
  
@@ -20,7 +20,7 @@ A8-A15 on port 2.
 
 An IC allows for some CS selection through
 the value of A0-A7 (with a latch present to keep 
-the values available while displaying D0-D7)
+the values available while displaying D0-D7).
 
 Other characteristics:
 
@@ -31,3 +31,5 @@ LED active on 0 on P3_5
 FTDI RS232 on Serial Port 0 (P3_0,P3_1)
 
 8-1-0-no handshake
+
+crystal frequency : 11.092KHz
