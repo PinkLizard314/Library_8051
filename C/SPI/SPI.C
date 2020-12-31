@@ -35,9 +35,9 @@ void SPIStop(unsigned char target)
 
 void SPI_CLK_Pulse(void)
 {
-  SCK = HIGH;
+  SKL = HIGH;
   Wait(1);
-  SCK = LOW;
+  SKL = LOW;
 }
 
 void SPIWrite(unsigned char data)     
