@@ -11,7 +11,7 @@
   
 #define MISO      	P1_1	
 #define MOSI		P1_2                   // RX1
-#define SCK			P1_3                   // TX1
+#define SCK		P1_3                   // TX1
  	
 #ifndef HIGH
 	#define HIGH 	1
