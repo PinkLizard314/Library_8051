@@ -32,4 +32,4 @@ FTDI RS232 on Serial Port 0 (P3_0,P3_1)
 
 8-1-0-no handshake
 
-crystal frequency : 11.092KHz
+crystal frequency : 11.092MHz
