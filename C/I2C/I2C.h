@@ -26,5 +26,5 @@ void I2C_ClkPulse (void);
 void I2CWrite(unsigned char data);
 unsigned char I2CRead(unsigned char n_data);
 
-extern bool Flag_ACK; 
+extern bit Flag_ACK; 
 #endif

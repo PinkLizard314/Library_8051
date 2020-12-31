@@ -10,7 +10,7 @@
 
 void Wait (unsigned int len);
 
-bool Flag_ACK;
+bit Flag_ACK;
 
 void InitI2C(void)
 {
